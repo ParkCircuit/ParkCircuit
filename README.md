@@ -40,7 +40,7 @@ Visit `http://localhost:3000` to view the application in your browser.
 
 ## Contributing
 
-Contributions are welcome! Please refer to the contributing guidelines for more information.
+Contributions are welcome! Please contact me at iamsorenl@gmail.com if you are interested in learning how to contribute!
 
 ## License
 
